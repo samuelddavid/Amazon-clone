@@ -1,0 +1,972 @@
+{
+	"knownSymbols": {
+		"Card": [
+			{
+				"name": "Card",
+				"module": "@/components/ui/card",
+				"isDefault": false
+			},
+			{
+				"name": "Card",
+				"path": "/Users/david/Desktop/CODING/MemoryGame/Card.tsx",
+				"isDefault": true
+			}
+		],
+		"React": [
+			{
+				"name": "React",
+				"module": "react",
+				"isDefault": true,
+				"asDefinition": "* as React"
+			}
+		],
+		"{ useContext": [
+			{
+				"name": "{ useContext",
+				"module": "react",
+				"isDefault": true
+			}
+		],
+		"GameBoard": [
+			{
+				"name": "GameBoard",
+				"path": "/Users/david/Desktop/CODING/MemoryGame/GameBoard.tsx",
+				"isDefault": true
+			}
+		],
+		"GameControls": [
+			{
+				"name": "GameControls",
+				"path": "/Users/david/Desktop/CODING/MemoryGame/GameControls.tsx",
+				"isDefault": true
+			}
+		],
+		"CardType": [
+			{
+				"name": "CardType",
+				"path": "/Users/david/Desktop/CODING/MemoryGame/types.ts",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"GameState": [
+			{
+				"name": "GameState",
+				"path": "/Users/david/Desktop/CODING/MemoryGame/types.ts",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"GameContextType": [
+			{
+				"name": "GameContextType",
+				"path": "/Users/david/Desktop/CODING/MemoryGame/types.ts",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"GameContext": [
+			{
+				"name": "GameContext",
+				"path": "/Users/david/Desktop/CODING/MemoryGame/GameContext.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"GameProvider": [
+			{
+				"name": "GameProvider",
+				"path": "/Users/david/Desktop/CODING/MemoryGame/GameContext.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"{ createContext": [
+			{
+				"name": "{ createContext",
+				"module": "react",
+				"isDefault": true
+			}
+		],
+		"useState": [
+			{
+				"name": "useState",
+				"module": "react",
+				"isDefault": true
+			}
+		],
+		"useEffect": [
+			{
+				"name": "useEffect",
+				"module": "react",
+				"isDefault": true
+			}
+		],
+		"useCallback": [
+			{
+				"name": "useCallback",
+				"module": "react",
+				"isDefault": true
+			}
+		],
+		"MemoryGame": [
+			{
+				"name": "MemoryGame",
+				"path": "/Users/david/Desktop/CODING/MemoryGame/MemoryGame.tsx",
+				"isDefault": true
+			}
+		],
+		"Home": [
+			{
+				"name": "Home",
+				"path": "/Users/david/Desktop/CODING/responsive-website/app/page.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"Quiz": [
+			{
+				"name": "Quiz",
+				"path": "/Users/david/Desktop/CODING/SimpleQuizApp/Quiz.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"{ useState": [
+			{
+				"name": "{ useState",
+				"module": "react",
+				"isDefault": true
+			}
+		],
+		"Button": [
+			{
+				"name": "Button",
+				"module": "@/components/ui/button",
+				"isDefault": false
+			}
+		],
+		"CardContent": [
+			{
+				"name": "CardContent",
+				"module": "@/components/ui/card",
+				"isDefault": false
+			}
+		],
+		"CardFooter": [
+			{
+				"name": "CardFooter",
+				"module": "@/components/ui/card",
+				"isDefault": false
+			}
+		],
+		"CardHeader": [
+			{
+				"name": "CardHeader",
+				"module": "@/components/ui/card",
+				"isDefault": false
+			}
+		],
+		"CardTitle": [
+			{
+				"name": "CardTitle",
+				"module": "@/components/ui/card",
+				"isDefault": false
+			}
+		],
+		"RadioGroup": [
+			{
+				"name": "RadioGroup",
+				"module": "@/components/ui/radio-group",
+				"isDefault": false
+			}
+		],
+		"RadioGroupItem": [
+			{
+				"name": "RadioGroupItem",
+				"module": "@/components/ui/radio-group",
+				"isDefault": false
+			}
+		],
+		"Label": [
+			{
+				"name": "Label",
+				"module": "@/components/ui/label",
+				"isDefault": false
+			}
+		],
+		"Layout": [
+			{
+				"name": "Layout",
+				"path": "/Users/david/Desktop/CODING/SimpleQuizApp/layout.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"reducer": [
+			{
+				"name": "reducer",
+				"path": "/Users/david/Desktop/CODING/responsive-website/components/ui/use-toast.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"useIsMobile": [
+			{
+				"name": "useIsMobile",
+				"module": "@/hooks/use-mobile",
+				"isDefault": false
+			},
+			{
+				"name": "useIsMobile",
+				"path": "/Users/david/Desktop/CODING/responsive-website/components/ui/use-mobile.tsx",
+				"type": "function",
+				"isDefault": false
+			}
+		],
+		"cn": [
+			{
+				"name": "cn",
+				"module": "@/lib/utils",
+				"isDefault": false
+			},
+			{
+				"name": "cn",
+				"path": "/Users/david/Desktop/CODING/responsive-website/lib/utils.ts",
+				"type": "function",
+				"isDefault": false
+			}
+		],
+		"clsx": [
+			{
+				"name": "clsx",
+				"module": "clsx",
+				"isDefault": false
+			}
+		],
+		"type ClassValue": [
+			{
+				"name": "type ClassValue",
+				"module": "clsx",
+				"isDefault": false
+			}
+		],
+		"twMerge": [
+			{
+				"name": "twMerge",
+				"module": "tailwind-merge",
+				"isDefault": false
+			}
+		],
+		"Navigation": [
+			{
+				"name": "Navigation",
+				"module": "@/components/navigation",
+				"isDefault": false
+			},
+			{
+				"name": "Navigation",
+				"path": "/Users/david/Desktop/CODING/responsive-website/components/navigation.tsx",
+				"type": "function",
+				"isDefault": false
+			}
+		],
+		"Link": [
+			{
+				"name": "Link",
+				"module": "next/link",
+				"isDefault": true
+			}
+		],
+		"usePathname": [
+			{
+				"name": "usePathname",
+				"module": "next/navigation",
+				"isDefault": false
+			}
+		],
+		"Menu": [
+			{
+				"name": "Menu",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"Container": [
+			{
+				"name": "Container",
+				"module": "@/components/container",
+				"isDefault": false
+			},
+			{
+				"name": "Container",
+				"path": "/Users/david/Desktop/CODING/responsive-website/components/container.tsx",
+				"type": "function",
+				"isDefault": false
+			}
+		],
+		"config": [
+			{
+				"name": "config",
+				"path": "/Users/david/Desktop/CODING/responsive-website/tailwind.config.ts",
+				"isDefault": true
+			}
+		],
+		"type { Config": [
+			{
+				"name": "type { Config",
+				"module": "tailwindcss",
+				"isDefault": true
+			}
+		],
+		"Custom": [
+			{
+				"name": "Custom",
+				"path": "/Users/david/Desktop/CODING/responsive-website/app/custom/page.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"AspectRatioPrimitive": [
+			{
+				"name": "AspectRatioPrimitive",
+				"module": "@radix-ui/react-aspect-ratio",
+				"isDefault": true,
+				"asDefinition": "* as AspectRatioPrimitive"
+			}
+		],
+		"Slot": [
+			{
+				"name": "Slot",
+				"module": "@radix-ui/react-slot",
+				"isDefault": false
+			}
+		],
+		"ChevronRight": [
+			{
+				"name": "ChevronRight",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"MoreHorizontal": [
+			{
+				"name": "MoreHorizontal",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"Authenticator": [
+			{
+				"name": "Authenticator",
+				"path": "/Users/david/Desktop/CODING/responsive-website/app/authenticator/page.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"RadioGroupPrimitive": [
+			{
+				"name": "RadioGroupPrimitive",
+				"module": "@radix-ui/react-radio-group",
+				"isDefault": true,
+				"asDefinition": "* as RadioGroupPrimitive"
+			}
+		],
+		"Circle": [
+			{
+				"name": "Circle",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"CalendarProps": [
+			{
+				"name": "CalendarProps",
+				"path": "/Users/david/Desktop/CODING/responsive-website/components/ui/calendar.tsx",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"ChevronLeft": [
+			{
+				"name": "ChevronLeft",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"DayPicker": [
+			{
+				"name": "DayPicker",
+				"module": "react-day-picker",
+				"isDefault": false
+			}
+		],
+		"buttonVariants": [
+			{
+				"name": "buttonVariants",
+				"module": "@/components/ui/button",
+				"isDefault": false
+			}
+		],
+		"SwitchPrimitives": [
+			{
+				"name": "SwitchPrimitives",
+				"module": "@radix-ui/react-switch",
+				"isDefault": true,
+				"asDefinition": "* as SwitchPrimitives"
+			}
+		],
+		"cva": [
+			{
+				"name": "cva",
+				"module": "class-variance-authority",
+				"isDefault": false
+			}
+		],
+		"type VariantProps": [
+			{
+				"name": "type VariantProps",
+				"module": "class-variance-authority",
+				"isDefault": false
+			}
+		],
+		"TooltipPrimitive": [
+			{
+				"name": "TooltipPrimitive",
+				"module": "@radix-ui/react-tooltip",
+				"isDefault": true,
+				"asDefinition": "* as TooltipPrimitive"
+			}
+		],
+		"Drawer as DrawerPrimitive": [
+			{
+				"name": "Drawer as DrawerPrimitive",
+				"module": "vaul",
+				"isDefault": false
+			}
+		],
+		"AccordionPrimitive": [
+			{
+				"name": "AccordionPrimitive",
+				"module": "@radix-ui/react-accordion",
+				"isDefault": true,
+				"asDefinition": "* as AccordionPrimitive"
+			}
+		],
+		"ChevronDown": [
+			{
+				"name": "ChevronDown",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"NavigationMenuPrimitive": [
+			{
+				"name": "NavigationMenuPrimitive",
+				"module": "@radix-ui/react-navigation-menu",
+				"isDefault": true,
+				"asDefinition": "* as NavigationMenuPrimitive"
+			}
+		],
+		"useTheme": [
+			{
+				"name": "useTheme",
+				"module": "next-themes",
+				"isDefault": false
+			}
+		],
+		"Toaster as Sonner": [
+			{
+				"name": "Toaster as Sonner",
+				"module": "sonner",
+				"isDefault": false
+			}
+		],
+		"LabelPrimitive": [
+			{
+				"name": "LabelPrimitive",
+				"module": "@radix-ui/react-label",
+				"isDefault": true,
+				"asDefinition": "* as LabelPrimitive"
+			}
+		],
+		"type DialogProps": [
+			{
+				"name": "type DialogProps",
+				"module": "@radix-ui/react-dialog",
+				"isDefault": false
+			}
+		],
+		"Command as CommandPrimitive": [
+			{
+				"name": "Command as CommandPrimitive",
+				"module": "cmdk",
+				"isDefault": false
+			}
+		],
+		"Search": [
+			{
+				"name": "Search",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"Dialog": [
+			{
+				"name": "Dialog",
+				"module": "@/components/ui/dialog",
+				"isDefault": false
+			}
+		],
+		"DialogContent": [
+			{
+				"name": "DialogContent",
+				"module": "@/components/ui/dialog",
+				"isDefault": false
+			}
+		],
+		"GripVertical": [
+			{
+				"name": "GripVertical",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"ResizablePrimitive": [
+			{
+				"name": "ResizablePrimitive",
+				"module": "react-resizable-panels",
+				"isDefault": true,
+				"asDefinition": "* as ResizablePrimitive"
+			}
+		],
+		"ScrollAreaPrimitive": [
+			{
+				"name": "ScrollAreaPrimitive",
+				"module": "@radix-ui/react-scroll-area",
+				"isDefault": true,
+				"asDefinition": "* as ScrollAreaPrimitive"
+			}
+		],
+		"SheetPrimitive": [
+			{
+				"name": "SheetPrimitive",
+				"module": "@radix-ui/react-dialog",
+				"isDefault": true,
+				"asDefinition": "* as SheetPrimitive"
+			}
+		],
+		"X": [
+			{
+				"name": "X",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"HoverCardPrimitive": [
+			{
+				"name": "HoverCardPrimitive",
+				"module": "@radix-ui/react-hover-card",
+				"isDefault": true,
+				"asDefinition": "* as HoverCardPrimitive"
+			}
+		],
+		"ChartConfig": [
+			{
+				"name": "ChartConfig",
+				"path": "/Users/david/Desktop/CODING/responsive-website/components/ui/chart.tsx",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"RechartsPrimitive": [
+			{
+				"name": "RechartsPrimitive",
+				"module": "recharts",
+				"isDefault": true,
+				"asDefinition": "* as RechartsPrimitive"
+			}
+		],
+		"OTPInput": [
+			{
+				"name": "OTPInput",
+				"module": "input-otp",
+				"isDefault": false
+			}
+		],
+		"OTPInputContext": [
+			{
+				"name": "OTPInputContext",
+				"module": "input-otp",
+				"isDefault": false
+			}
+		],
+		"Dot": [
+			{
+				"name": "Dot",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"Toaster": [
+			{
+				"name": "Toaster",
+				"path": "/Users/david/Desktop/CODING/responsive-website/components/ui/toaster.tsx",
+				"type": "function",
+				"isDefault": false
+			}
+		],
+		"useToast": [
+			{
+				"name": "useToast",
+				"module": "@/hooks/use-toast",
+				"isDefault": false
+			}
+		],
+		"ProgressPrimitive": [
+			{
+				"name": "ProgressPrimitive",
+				"module": "@radix-ui/react-progress",
+				"isDefault": true,
+				"asDefinition": "* as ProgressPrimitive"
+			}
+		],
+		"PopoverPrimitive": [
+			{
+				"name": "PopoverPrimitive",
+				"module": "@radix-ui/react-popover",
+				"isDefault": true,
+				"asDefinition": "* as PopoverPrimitive"
+			}
+		],
+		"SliderPrimitive": [
+			{
+				"name": "SliderPrimitive",
+				"module": "@radix-ui/react-slider",
+				"isDefault": true,
+				"asDefinition": "* as SliderPrimitive"
+			}
+		],
+		"TabsPrimitive": [
+			{
+				"name": "TabsPrimitive",
+				"module": "@radix-ui/react-tabs",
+				"isDefault": true,
+				"asDefinition": "* as TabsPrimitive"
+			}
+		],
+		"ButtonProps": [
+			{
+				"name": "ButtonProps",
+				"path": "/Users/david/Desktop/CODING/responsive-website/components/ui/button.tsx",
+				"type": "interface",
+				"isDefault": false
+			},
+			{
+				"name": "ButtonProps",
+				"module": "@/components/ui/button",
+				"isDefault": false
+			}
+		],
+		"ToggleGroupPrimitive": [
+			{
+				"name": "ToggleGroupPrimitive",
+				"module": "@radix-ui/react-toggle-group",
+				"isDefault": true,
+				"asDefinition": "* as ToggleGroupPrimitive"
+			}
+		],
+		"toggleVariants": [
+			{
+				"name": "toggleVariants",
+				"module": "@/components/ui/toggle",
+				"isDefault": false
+			}
+		],
+		"AlertDialogPrimitive": [
+			{
+				"name": "AlertDialogPrimitive",
+				"module": "@radix-ui/react-alert-dialog",
+				"isDefault": true,
+				"asDefinition": "* as AlertDialogPrimitive"
+			}
+		],
+		"metadata": [
+			{
+				"name": "metadata",
+				"path": "/Users/david/Desktop/CODING/responsive-website/app/layout.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"RootLayout": [
+			{
+				"name": "RootLayout",
+				"path": "/Users/david/Desktop/CODING/responsive-website/app/layout.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"type { Metadata": [
+			{
+				"name": "type { Metadata",
+				"module": "next",
+				"isDefault": true
+			}
+		],
+		"Inter": [
+			{
+				"name": "Inter",
+				"module": "next/font/google",
+				"isDefault": false
+			}
+		],
+		"ArrowLeft": [
+			{
+				"name": "ArrowLeft",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"ArrowRight": [
+			{
+				"name": "ArrowRight",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"ContextMenuPrimitive": [
+			{
+				"name": "ContextMenuPrimitive",
+				"module": "@radix-ui/react-context-menu",
+				"isDefault": true,
+				"asDefinition": "* as ContextMenuPrimitive"
+			}
+		],
+		"Check": [
+			{
+				"name": "Check",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"SelectPrimitive": [
+			{
+				"name": "SelectPrimitive",
+				"module": "@radix-ui/react-select",
+				"isDefault": true,
+				"asDefinition": "* as SelectPrimitive"
+			}
+		],
+		"ChevronUp": [
+			{
+				"name": "ChevronUp",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"DropdownMenuPrimitive": [
+			{
+				"name": "DropdownMenuPrimitive",
+				"module": "@radix-ui/react-dropdown-menu",
+				"isDefault": true,
+				"asDefinition": "* as DropdownMenuPrimitive"
+			}
+		],
+		"CollapsiblePrimitive": [
+			{
+				"name": "CollapsiblePrimitive",
+				"module": "@radix-ui/react-collapsible",
+				"isDefault": true,
+				"asDefinition": "* as CollapsiblePrimitive"
+			}
+		],
+		"CheckboxPrimitive": [
+			{
+				"name": "CheckboxPrimitive",
+				"module": "@radix-ui/react-checkbox",
+				"isDefault": true,
+				"asDefinition": "* as CheckboxPrimitive"
+			}
+		],
+		"ToastPrimitives": [
+			{
+				"name": "ToastPrimitives",
+				"module": "@radix-ui/react-toast",
+				"isDefault": true,
+				"asDefinition": "* as ToastPrimitives"
+			}
+		],
+		"TogglePrimitive": [
+			{
+				"name": "TogglePrimitive",
+				"module": "@radix-ui/react-toggle",
+				"isDefault": true,
+				"asDefinition": "* as TogglePrimitive"
+			}
+		],
+		"SeparatorPrimitive": [
+			{
+				"name": "SeparatorPrimitive",
+				"module": "@radix-ui/react-separator",
+				"isDefault": true,
+				"asDefinition": "* as SeparatorPrimitive"
+			}
+		],
+		"VariantProps": [
+			{
+				"name": "VariantProps",
+				"module": "class-variance-authority",
+				"isDefault": false
+			}
+		],
+		"PanelLeft": [
+			{
+				"name": "PanelLeft",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"Input": [
+			{
+				"name": "Input",
+				"module": "@/components/ui/input",
+				"isDefault": false
+			}
+		],
+		"Separator": [
+			{
+				"name": "Separator",
+				"module": "@/components/ui/separator",
+				"isDefault": false
+			}
+		],
+		"Sheet": [
+			{
+				"name": "Sheet",
+				"module": "@/components/ui/sheet",
+				"isDefault": false
+			}
+		],
+		"SheetContent": [
+			{
+				"name": "SheetContent",
+				"module": "@/components/ui/sheet",
+				"isDefault": false
+			}
+		],
+		"Skeleton": [
+			{
+				"name": "Skeleton",
+				"module": "@/components/ui/skeleton",
+				"isDefault": false
+			}
+		],
+		"BadgeProps": [
+			{
+				"name": "BadgeProps",
+				"path": "/Users/david/Desktop/CODING/responsive-website/components/ui/badge.tsx",
+				"type": "interface",
+				"isDefault": false
+			}
+		],
+		"DialogPrimitive": [
+			{
+				"name": "DialogPrimitive",
+				"module": "@radix-ui/react-dialog",
+				"isDefault": true,
+				"asDefinition": "* as DialogPrimitive"
+			}
+		],
+		"MenubarPrimitive": [
+			{
+				"name": "MenubarPrimitive",
+				"module": "@radix-ui/react-menubar",
+				"isDefault": true,
+				"asDefinition": "* as MenubarPrimitive"
+			}
+		],
+		"AvatarPrimitive": [
+			{
+				"name": "AvatarPrimitive",
+				"module": "@radix-ui/react-avatar",
+				"isDefault": true,
+				"asDefinition": "* as AvatarPrimitive"
+			}
+		],
+		"Feedback": [
+			{
+				"name": "Feedback",
+				"path": "/Users/david/Desktop/CODING/responsive-website/app/feedback/page.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"FeedbackForm": [
+			{
+				"name": "FeedbackForm",
+				"path": "/Users/david/Desktop/CODING/responsive-website/app/feedback/feedback-form.tsx",
+				"type": "function",
+				"isDefault": false
+			}
+		],
+		"zodResolver": [
+			{
+				"name": "zodResolver",
+				"module": "@hookform/resolvers/zod",
+				"isDefault": false
+			}
+		],
+		"useForm": [
+			{
+				"name": "useForm",
+				"module": "react-hook-form",
+				"isDefault": false
+			}
+		],
+		"z": [
+			{
+				"name": "z",
+				"module": "zod",
+				"isDefault": true,
+				"asDefinition": "* as z"
+			}
+		],
+		"Textarea": [
+			{
+				"name": "Textarea",
+				"module": "@/components/ui/textarea",
+				"isDefault": false
+			}
+		],
+		"Contact": [
+			{
+				"name": "Contact",
+				"path": "/Users/david/Desktop/CODING/responsive-website/app/contact/page.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"Mail": [
+			{
+				"name": "Mail",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"MapPin": [
+			{
+				"name": "MapPin",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		],
+		"Phone": [
+			{
+				"name": "Phone",
+				"module": "lucide-react",
+				"isDefault": false
+			}
+		]
+	}
+}
